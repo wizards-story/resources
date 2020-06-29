@@ -1,6 +1,8 @@
 {
-  "minecraft-version": "1.12.2",
-  "forge-version": "14.23.5.2847",
-  "modpack-version": "0.0.14.1",
-  "modpack-download": "https://raw.githubusercontent.com/wizards-story/resources/master/modpack.zip",
+  "MinecraftVersion": "1.12.2",
+  "ForgeVersion": "14.23.5.2847",
+  "ModpackVersion": "0.0.14.1",
+  "ModpackDownload": "https://raw.githubusercontent.com/wizards-story/resources/master/modpack.zip",
+  "GameVersion": "1.0.0.0",
+  "GameDownload": ""
 }
